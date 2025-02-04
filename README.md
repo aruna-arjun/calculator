@@ -39,9 +39,8 @@
 ## Screenshots
 
 
-<img src="![open](https://github.com/user-attachments/assets/4a9d1d78-90ed-459e-8b91-8108f6f7120e)" alt="Description" width="300"/>
-
-![open](https://github.com/user-attachments/assets/4a9d1d78-90ed-459e-8b91-8108f6f7120e)
+<img src="![Addition](https://github.com/user-attachments/assets/ac8e59ec-d077-4e06-98f6-351f422490a3)
+" width="15%" alt=""/>
 
 ![Addition](https://github.com/user-attachments/assets/ac8e59ec-d077-4e06-98f6-351f422490a3)
 
