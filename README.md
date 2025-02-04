@@ -1,4 +1,4 @@
-#Calculator app (Android)
+# Calculator app (Android)
 
 
 *   This is a functional calculator app for Android, built using Kotlin and the MVVM (Model-View-ViewModel) architectural pattern. 
