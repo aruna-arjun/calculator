@@ -26,10 +26,8 @@
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-github-username]/[your-repository-name].git
-    ```
-    (Replace `[your-github-username]` and `[your-repository-name]` with your actual GitHub details.)
-
+(https://github.com/aruna-arjun/calculator.git)    ```
+   
 2.  **Open in Android Studio:** Open the cloned project in Android Studio. 
 
 3.  **Build and Run:** Build the app and run it on an Android emulator or a physical Android device.
@@ -39,8 +37,9 @@
 ## Screenshots
 
 
-<img src="![Addition](https://github.com/user-attachments/assets/ac8e59ec-d077-4e06-98f6-351f422490a3)
-" width="15%" alt=""/>
+![open](https://github.com/user-attachments/assets/3403f847-2546-4f35-a1a9-1925528a584e)
+
+![Addition](https://github.com/user-attachments/assets/ac8e59ec-d077-4e06-98f6-351f422490a3)
 
 ![Addition](https://github.com/user-attachments/assets/ac8e59ec-d077-4e06-98f6-351f422490a3)
 
