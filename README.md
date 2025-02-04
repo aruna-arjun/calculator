@@ -25,12 +25,12 @@
 ## Installation
 
 1.  **Clone the Repository:**
-    ```bash (https://github.com/aruna-arjun/calculator.git)   ```
 
+    ```git clone https://github.com/your-username/calculator.git)```
 
-2.  **Open in Android Studio:** Open the cloned project in Android Studio. 
+3.  **Open in Android Studio:** Open the cloned project in Android Studio. 
 
-3.  **Build and Run:** Build the app and run it on an Android emulator or a physical Android device.
+4.  **Build and Run:** Build the app and run it on an Android emulator or a physical Android device.
 
 
 
